@@ -1,0 +1,109 @@
+body{
+	background-color:#aabf72;
+}
+.container{
+	    padding: 0px !important;
+    margin-top: -58px;
+}
+.main-content{
+	background-color:#fff !important;
+	text-align:center;
+}
+
+.header ul{
+	 list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+}
+.header ul li{
+	color:#666666 !important;
+	display: inline;
+	font-size: 23px;
+    padding: 8px;
+}
+.header-design{
+border:7px solid #e5e5e5;
+}
+/********
+* Service Menu
+********/
+.mid {
+	width:91.5%;
+}
+#content-2{
+	padding-left:35px;
+}
+
+.service-list ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+	font-family: 'Georgia', serif;
+    font-size: 20px;
+    color:#ffffff;
+}
+
+.service-list ul li{
+    display: block;
+    color: #fff;
+	margin-bottom:2px;
+    padding: 8px 16px;
+	background: #9bb358;
+    opacity: 1.00;
+    text-decoration: none;
+}
+
+.service-list .list-head {
+    background-color: #e5e5e5;
+    color: #463c3c;
+}
+
+#content-2-section2{
+	border:6px solid #8c8c8c;
+	margin-left:93px;
+	    position: inherit;
+    height: 270px;
+}
+#content-2-section2 h3{
+	color: #97b155;
+    font-family: 'Georgia', serif;
+    font-size: 22px;
+	margin-left:-123px;
+}
+#content-2-section2 p{
+	    margin-left: -73px;
+}
+#content-2-section2 .col-xs-12 p{
+	padding: 35px;
+    margin-left: -1px;
+}
+#footer{
+	color: #6b595a;
+    font-family: 'ComicSansMS', 'Comic Sans MS', 'ArialMT', 'Arial', sans-serif;
+        font-size: 16px;
+    padding: 50px 1px 53px;
+}
+
+form{
+margin-left: 20px;
+}
+/******************
+*** Login Page Style
+*******************/
+.login-section{
+	text-align:right !important;
+	    margin-top: 10%;
+    width: 500px;
+    border: 10px solid grey;
+}
+#login-content{
+	    padding: 4%;
+    background-color: #fff;
+}
+#login-content .btn{
+	    float: left;
+    margin-left: 150px;
+}
